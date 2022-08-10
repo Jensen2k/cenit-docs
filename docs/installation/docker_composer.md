@@ -22,6 +22,7 @@ This is the best way of intalling Cenit IO on-premise.
 
 3. Execute 
 
+`sh env.sh`
 
 `docker-compose build`
 
